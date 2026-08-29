@@ -2,6 +2,7 @@
 <br>
 
 ### Hi, I'm Lela 👋
+I'm a Computer Science graduate with a strong interest in software development and full-stack applications.
 
 - 📫 How to reach me:  **jovanovic.lela.00@gmail.com**
 
