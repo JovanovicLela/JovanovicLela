@@ -6,7 +6,7 @@
 I'm a Computer Science graduate with a strong interest in software development, full-stack applications, and backend systems. <br>
 Currently based in Germany, continuously expanding my technical skills, improving my German, and looking for software development opportunities.
 
-- 📫 How to reach me:  **jovanovic.lela.00@gmail.com**
+📫 How to reach me:  **jovanovic.lela.00@gmail.com**
 
 
 # 💻 Tech Stack:
