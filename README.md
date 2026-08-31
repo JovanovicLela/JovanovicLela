@@ -19,5 +19,5 @@ Currently based in Germany, continuously expanding my technical skills, improvin
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JovanovicLela&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
