@@ -4,7 +4,7 @@
 ### Hi, I'm Lela 👋
 
 I'm a Computer Science graduate with a strong interest in software development, full-stack applications, and backend systems. <br>
-Currently based in Germany, continuously expanding my technical skills, improving my German, and looking for software development opportunities.
+Continuously expanding my technical skills, exploring new technologies, and improving my German language proficiency while seeking opportunities to grow as a software developer.
 
 📫 How to reach me:  **jovanovic.lela.00@gmail.com**
 
